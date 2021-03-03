@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Reusable Button Component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://reusable-button-component.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -37,11 +37,10 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![screenshot](https://i.ibb.co/XFzYdB6/reusable-button-component-netlify-app.png)
 
 - Where can I see your demo?
+    <a href="https://reusable-button-component.netlify.app/">
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
