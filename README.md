@@ -39,13 +39,9 @@
 
 ![screenshot](https://i.ibb.co/XFzYdB6/reusable-button-component-netlify-app.png)
 
-- Where can I see your demo?
-    <a href="https://reusable-button-component.netlify.app/">
-     You can see here
-    </a>
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+My first attempt was really bad, I tried to use CSS, but the file was getting too long, and if I would like to add more color It would be a pain, then I discovered the Styled Components library, which allows me to use the javascript logic with CSS that's why you can use any color to the button, not just specific ones.
+
+I still think that had a lot of issues with the code inside of my Styled Components, which I hope to improve in the next ones.
 
 ### Built With
 
