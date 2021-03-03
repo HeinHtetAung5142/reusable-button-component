@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="App">
       <h3>Buttons</h3>
-
       <div className='wrapper'>
 
         <div className='container'>
@@ -22,6 +21,10 @@ function App() {
         <div className='container'>
           <span>{'<'}Button disableShadow {'/>'}</span>
           <Button color='darkblue' disableShadow>Default</Button>
+        </div>
+        <div className='container'>
+          <span>{'<'}Button disabled {'/>'}</span>
+          <Button color='darkblue' disabled>Default</Button>
         </div>
         <div className='container'>
           <span>{'<'}Button startIcon='favorite_border' {'/>'}</span>

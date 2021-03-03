@@ -34,13 +34,21 @@ const StyledButton = styled.button`
             ? lighten(0.45, color? color : '#757575') 
             : darken(0.10, color? color : '#E0E0E0')};
     }
+    &:disabled {
+        background: #E0E0E0;
+        color: #9E9E9E;
+        cursor: no-drop;
+        &:hover , &:focus {
+          background: white;
+        }
+    }
 `
 const StyledIcon = styled.div`
     font-size: 16px;
 `
 const Button = (props) => {
     return (
-        <StyledButton  {...props}>
+        <StyledButton {...props}>
             {props.startIcon? <StyledIcon className='material-icons'>{props.startIcon}</StyledIcon> : null}
             {props.children}
             {props.endIcon? <StyledIcon className='material-icons'>{props.endIcon}</StyledIcon> : null}
