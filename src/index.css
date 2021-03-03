@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Ubuntu+Mono&display=swap');
+
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  width: 80%;
+  max-width: 1380px;
+  margin: auto;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.sub-container {
+  display: flex;
+}
+.container {
+  flex: 1 1 250px;
+}
+
+span {
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+}
