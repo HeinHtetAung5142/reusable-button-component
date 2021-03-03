@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <h3>Buttons</h3>
+
       <div className='wrapper'>
 
         <div className='container'>
@@ -55,6 +56,11 @@ function App() {
           <Button color='#9e7a10' >Default</Button>
         </div>
       </div>
+      <footer>
+        <span>Icons: https://material.io/resources/icons/?style=round</span>
+        <br/>
+        <span className='made-by'>created by Alexandre Roberto Cordeiro - devChallenges.io</span>
+      </footer>
     </div>  
     
   );

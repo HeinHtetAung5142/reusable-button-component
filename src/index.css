@@ -28,3 +28,12 @@ span {
   font-family: 'Ubuntu Mono', monospace;
   font-size: 12px;
 }
+
+.made-by {
+  font-weight: bold;
+  font-size: 15px;
+  color: rgb(177, 177, 177);
+}
+
+footer {margin-top: 80px;
+}
