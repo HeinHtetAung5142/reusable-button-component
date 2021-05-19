@@ -41,6 +41,11 @@
 My first attempt was really bad, I tried to use CSS, but the file was getting too long, and if I would like to add more color It would be a pain, then I discovered the Styled Components library, which allows me to use the javascript logic with CSS that's why you can use any color to the button, not just specific ones.
 
 I still think that had a lot of issues with the code inside of my Styled Components, which I hope to improve in the next ones.
+<hr>
+
+Minha primeira tentativa foi muito ruim, tentei usar CSS, mas o arquivo estava ficando muito longo, e se eu quisesse adicionar mais cor seria um saco, então descobri a biblioteca de componentes estilizados, que me permite usar o lógica javascript com CSS é por isso que você pode usar qualquer cor no botão, não apenas cores específicas.
+
+Ainda acho que houve muitos problemas com o código dentro dos meus componentes estilizados, que espero melhorar nos próximos.
 
 ### Built With
 
