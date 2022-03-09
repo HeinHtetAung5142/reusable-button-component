@@ -8,16 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://reusable-button-component.netlify.app/">
+    <a href="https://reusable-button-component-alex.herokuapp.com/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/solutions/DtJK7tewoVTxcutJUujR">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
-      Challenge
     </a>
   </h3>
 </div>
@@ -28,7 +20,6 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 
@@ -54,12 +45,6 @@ Ainda acho que houve muitos problemas com o código dentro dos meus componentes 
 - [React](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [Material Design](https://material.io/resources/icons/?style=baseline)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
 ## How To Use
 
